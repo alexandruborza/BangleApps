@@ -2133,7 +2133,7 @@
   { "id": "druwatchmin",
   "name": "Dru's Watch - Minimalist",
   "shortName":"DruWatch",
-  "icon": "dru_watch.png",
+  "icon": "dru_logo_small.png",
   "version":"0.01",
   "description": "Customized Watch",
   "tags": "",
