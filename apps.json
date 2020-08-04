@@ -2137,6 +2137,7 @@
   "version":"0.01",
   "description": "Customized Watch",
   "tags": "",
+  "type": "clock",
   "readme": "README.md",
   "storage": [
       {"name":"druwatchmin.app.js","url":"app.js"},
